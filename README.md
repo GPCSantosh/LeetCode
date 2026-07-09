@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/GPCSantosh/LeetCode/tree/master/0022-generate-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,8 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GPCSantosh/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
 <!---LeetCode Topics End-->
