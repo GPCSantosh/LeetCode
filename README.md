@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/GPCSantosh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/GPCSantosh/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/GPCSantosh/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/GPCSantosh/LeetCode/tree/master/0048-rotate-image) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 ## Math
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GPCSantosh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GPCSantosh/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/GPCSantosh/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/GPCSantosh/LeetCode/tree/master/0048-rotate-image) |
 ## Sliding Window
 |  |
 | ------- |
@@ -154,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/GPCSantosh/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/GPCSantosh/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
