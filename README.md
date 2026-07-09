@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GPCSantosh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/GPCSantosh/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/GPCSantosh/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/GPCSantosh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/GPCSantosh/LeetCode/tree/master/0022-generate-parentheses) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/GPCSantosh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/GPCSantosh/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
