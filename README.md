@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/GPCSantosh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/GPCSantosh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/GPCSantosh/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/GPCSantosh/LeetCode/tree/master/0070-climbing-stairs) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 ## Backtracking
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GPCSantosh/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/GPCSantosh/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/GPCSantosh/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/GPCSantosh/LeetCode/tree/master/0070-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GPCSantosh/LeetCode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GPCSantosh/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
