@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/GPCSantosh/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/GPCSantosh/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/GPCSantosh/LeetCode/tree/master/0067-add-binary) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GPCSantosh/LeetCode/tree/master/0067-add-binary) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
 ## Array
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GPCSantosh/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/GPCSantosh/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/GPCSantosh/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/GPCSantosh/LeetCode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/GPCSantosh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/GPCSantosh/LeetCode/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/GPCSantosh/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
