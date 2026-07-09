@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GPCSantosh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/GPCSantosh/LeetCode/tree/master/0022-generate-parentheses) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GPCSantosh/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GPCSantosh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/GPCSantosh/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/GPCSantosh/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Stack
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GPCSantosh/LeetCode/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GPCSantosh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
