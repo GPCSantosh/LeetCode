@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GPCSantosh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GPCSantosh/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GPCSantosh/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/GPCSantosh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/GPCSantosh/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/GPCSantosh/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/GPCSantosh/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GPCSantosh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/GPCSantosh/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/GPCSantosh/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/GPCSantosh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 ## Math
 |  |
