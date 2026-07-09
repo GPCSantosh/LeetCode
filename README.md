@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/GPCSantosh/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/GPCSantosh/LeetCode/tree/master/0100-same-tree) |
 | [0386-lexicographical-numbers](https://github.com/GPCSantosh/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/GPCSantosh/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/GPCSantosh/LeetCode/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -206,4 +208,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/GPCSantosh/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/GPCSantosh/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/GPCSantosh/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
