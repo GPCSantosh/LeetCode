@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GPCSantosh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/GPCSantosh/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/GPCSantosh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/GPCSantosh/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/GPCSantosh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GPCSantosh/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/GPCSantosh/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/GPCSantosh/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/GPCSantosh/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/GPCSantosh/LeetCode/tree/master/0050-powx-n) |
 ## Sliding Window
 |  |
 | ------- |
