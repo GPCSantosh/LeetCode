@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GPCSantosh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/GPCSantosh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/GPCSantosh/LeetCode/tree/master/0049-group-anagrams) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GPCSantosh/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GPCSantosh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/GPCSantosh/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/GPCSantosh/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/GPCSantosh/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/GPCSantosh/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Stack
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/GPCSantosh/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/GPCSantosh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/GPCSantosh/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/GPCSantosh/LeetCode/tree/master/0049-group-anagrams) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 ## Math
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GPCSantosh/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/GPCSantosh/LeetCode/tree/master/0049-group-anagrams) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
