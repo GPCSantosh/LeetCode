@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/GPCSantosh/LeetCode/tree/master/0022-generate-parentheses) |
+| [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/GPCSantosh/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GPCSantosh/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 <!---LeetCode Topics End-->
