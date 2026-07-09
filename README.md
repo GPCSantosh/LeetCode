@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/GPCSantosh/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/GPCSantosh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/GPCSantosh/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/GPCSantosh/LeetCode/tree/master/0055-jump-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 ## Backtracking
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GPCSantosh/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GPCSantosh/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/GPCSantosh/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/GPCSantosh/LeetCode/tree/master/0055-jump-game) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 ## Math
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GPCSantosh/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/GPCSantosh/LeetCode/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
