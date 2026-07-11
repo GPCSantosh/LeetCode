@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GPCSantosh/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GPCSantosh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/GPCSantosh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/GPCSantosh/LeetCode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/GPCSantosh/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/GPCSantosh/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/GPCSantosh/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GPCSantosh/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/GPCSantosh/LeetCode/tree/master/0136-single-number) |
 ## Memoization
 |  |
 | ------- |
