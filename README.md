@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/GPCSantosh/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/GPCSantosh/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GPCSantosh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/GPCSantosh/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/GPCSantosh/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/GPCSantosh/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/GPCSantosh/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/GPCSantosh/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/GPCSantosh/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/GPCSantosh/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/GPCSantosh/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/GPCSantosh/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Stack
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/GPCSantosh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/GPCSantosh/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/GPCSantosh/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/GPCSantosh/LeetCode/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
