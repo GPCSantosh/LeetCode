@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GPCSantosh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/GPCSantosh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/GPCSantosh/LeetCode/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/GPCSantosh/LeetCode/tree/master/0396-rotate-function) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 ## Backtracking
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/GPCSantosh/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/GPCSantosh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GPCSantosh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/GPCSantosh/LeetCode/tree/master/0396-rotate-function) |
 | [0713-subarray-product-less-than-k](https://github.com/GPCSantosh/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1331-rank-transform-of-an-array](https://github.com/GPCSantosh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/GPCSantosh/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/GPCSantosh/LeetCode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/GPCSantosh/LeetCode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/GPCSantosh/LeetCode/tree/master/0396-rotate-function) |
 ## Sliding Window
 |  |
 | ------- |
