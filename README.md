@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GPCSantosh/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/GPCSantosh/LeetCode/tree/master/0258-add-digits) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
 ## Array
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/GPCSantosh/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/GPCSantosh/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/GPCSantosh/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/GPCSantosh/LeetCode/tree/master/0258-add-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -334,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/GPCSantosh/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/GPCSantosh/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
