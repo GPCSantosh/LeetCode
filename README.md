@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GPCSantosh/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/GPCSantosh/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/GPCSantosh/LeetCode/tree/master/0389-find-the-difference) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GPCSantosh/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GPCSantosh/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/GPCSantosh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/GPCSantosh/LeetCode/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/GPCSantosh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Stack
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GPCSantosh/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/GPCSantosh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GPCSantosh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/GPCSantosh/LeetCode/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/GPCSantosh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/GPCSantosh/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/GPCSantosh/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/GPCSantosh/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/GPCSantosh/LeetCode/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
 | ------- |
