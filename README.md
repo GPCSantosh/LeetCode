@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/GPCSantosh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GPCSantosh/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/GPCSantosh/LeetCode/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/GPCSantosh/LeetCode/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/GPCSantosh/LeetCode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/GPCSantosh/LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/GPCSantosh/LeetCode/tree/master/0396-rotate-function) |
+| [1922-count-good-numbers](https://github.com/GPCSantosh/LeetCode/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
