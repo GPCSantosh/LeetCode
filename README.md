@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GPCSantosh/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/GPCSantosh/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/GPCSantosh/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/GPCSantosh/LeetCode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/GPCSantosh/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/GPCSantosh/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/GPCSantosh/LeetCode/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/GPCSantosh/LeetCode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
