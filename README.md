@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/GPCSantosh/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/GPCSantosh/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/GPCSantosh/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/GPCSantosh/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/GPCSantosh/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/GPCSantosh/LeetCode/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/GPCSantosh/LeetCode/tree/master/1922-count-good-numbers) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/GPCSantosh/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/GPCSantosh/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/GPCSantosh/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/GPCSantosh/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/GPCSantosh/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/GPCSantosh/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/GPCSantosh/LeetCode/tree/master/0292-nim-game) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/GPCSantosh/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/GPCSantosh/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/GPCSantosh/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/GPCSantosh/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/GPCSantosh/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/GPCSantosh/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/GPCSantosh/LeetCode/tree/master/0389-find-the-difference) |
