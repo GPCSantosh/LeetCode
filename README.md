@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GPCSantosh/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
+| [3834-merge-adjacent-equal-elements](https://github.com/GPCSantosh/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/GPCSantosh/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
+| [3834-merge-adjacent-equal-elements](https://github.com/GPCSantosh/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Array
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/GPCSantosh/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/GPCSantosh/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/GPCSantosh/LeetCode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
+| [3834-merge-adjacent-equal-elements](https://github.com/GPCSantosh/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Math
 |  |
 | ------- |
