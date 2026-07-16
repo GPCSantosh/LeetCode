@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GPCSantosh/LeetCode/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/GPCSantosh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/GPCSantosh/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/GPCSantosh/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/GPCSantosh/LeetCode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [3223-minimum-length-of-string-after-operations](https://github.com/GPCSantosh/LeetCode/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/GPCSantosh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/GPCSantosh/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/GPCSantosh/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/GPCSantosh/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GPCSantosh/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/GPCSantosh/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/GPCSantosh/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/GPCSantosh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/GPCSantosh/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/GPCSantosh/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/GPCSantosh/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GPCSantosh/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/GPCSantosh/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
