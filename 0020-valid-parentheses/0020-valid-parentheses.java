@@ -1,21 +1,22 @@
 class Solution {
     public boolean isValid(String s) {
-        int len = s.length();
-        char[] stack = new char[len];
+        int n = s.length();
+        char[] arr = new char[n];
         int top = -1;
-        for (int i = 0; i < len; i++) {
-            char c = s.charAt(i);
-            if (c == '(' || c == '[' || c == '{') {
-                stack[++top] = c;
-            } else {
-                if (top < 0) {
-                    return false;
-                }
-                char topChar = stack[top--];
-                if ((c == ')' && topChar != '(') ||
-                    (c == ']' && topChar != '[') ||
-                    (c == '}' && topChar != '{')) {
-                    return false;
+        for(int i = 0 ; i < n ; i++){
+            char ch = s.charAt(i);
+            if(ch == '(' || ch == '[' || ch == '{'){
+                arr[++top] = ch;
+            }
+            else{
+                if(top < 0) return false;
+                else{
+                    char te = arr[top--];
+                    if((ch == ')' && te != '(') ||
+                    (ch == ']' && te != '[') ||
+                    (ch == '}' && te != '{')){
+                        return false;
+                    }
                 }
             }
         }
