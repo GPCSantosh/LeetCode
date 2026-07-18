@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/GPCSantosh/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/GPCSantosh/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/GPCSantosh/LeetCode/tree/master/0389-find-the-difference) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/GPCSantosh/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
