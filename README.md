@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/GPCSantosh/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/GPCSantosh/LeetCode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [3223-minimum-length-of-string-after-operations](https://github.com/GPCSantosh/LeetCode/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
+| [3945-digit-frequency-score](https://github.com/GPCSantosh/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Stack
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/GPCSantosh/LeetCode/tree/master/1922-count-good-numbers) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/GPCSantosh/LeetCode/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GPCSantosh/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3945-digit-frequency-score](https://github.com/GPCSantosh/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |
