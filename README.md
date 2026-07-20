@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/GPCSantosh/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/GPCSantosh/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/GPCSantosh/LeetCode/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/GPCSantosh/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/GPCSantosh/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/GPCSantosh/LeetCode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/GPCSantosh/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/GPCSantosh/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1260-shift-2d-grid](https://github.com/GPCSantosh/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/GPCSantosh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/GPCSantosh/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/GPCSantosh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GPCSantosh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/GPCSantosh/LeetCode/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/GPCSantosh/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
