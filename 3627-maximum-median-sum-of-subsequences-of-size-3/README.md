@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3">3627. Maximum Median Sum of Subsequences of Size 3</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> with a length divisible by 3.</p>
+<h2><a href="https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3">3766. Maximum Median Sum of Subsequences of Size 3</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> with a length divisible by 3.</p>
 
 <p>You want to make the array empty in steps. In each step, you can select any three elements from the array, compute their <strong>median</strong>, and remove the selected elements from the array.</p>
 
