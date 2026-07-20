@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/GPCSantosh/LeetCode/tree/master/2938-separate-black-and-white-balls) |
 | [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3223-minimum-length-of-string-after-operations](https://github.com/GPCSantosh/LeetCode/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/GPCSantosh/LeetCode/tree/master/1922-count-good-numbers) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/GPCSantosh/LeetCode/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/GPCSantosh/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/GPCSantosh/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/GPCSantosh/LeetCode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GPCSantosh/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/GPCSantosh/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/GPCSantosh/LeetCode/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/GPCSantosh/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/GPCSantosh/LeetCode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/GPCSantosh/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/GPCSantosh/LeetCode/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/GPCSantosh/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/GPCSantosh/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/GPCSantosh/LeetCode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Bucket Sort
