@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/final-element-after-subarray-deletions">3828. Final Element After Subarray Deletions</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/final-element-after-subarray-deletions">4122. Final Element After Subarray Deletions</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>Two players, Alice and Bob, play a game in turns, with Alice playing first.</p>
 
