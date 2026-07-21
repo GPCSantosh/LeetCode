@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/prime-in-diagonal">2614. Prime In Diagonal</a></h2><h3>Easy</h3><hr><p>You are given a 0-indexed two-dimensional integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/prime-in-diagonal">2722. Prime In Diagonal</a></h2><h3>Easy</h3><hr><p>You are given a 0-indexed two-dimensional integer array <code>nums</code>.</p>
 
 <p>Return <em>the largest <strong>prime</strong> number that lies on at least one of the <b>diagonals</b> of </em><code>nums</code>. In case, no prime is present on any of the diagonals, return<em> 0.</em></p>
 
