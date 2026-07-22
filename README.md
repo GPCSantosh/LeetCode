@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/GPCSantosh/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/GPCSantosh/LeetCode/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/GPCSantosh/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/GPCSantosh/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/GPCSantosh/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/GPCSantosh/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/GPCSantosh/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/GPCSantosh/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/GPCSantosh/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2614-prime-in-diagonal](https://github.com/GPCSantosh/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/GPCSantosh/LeetCode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/GPCSantosh/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GPCSantosh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GPCSantosh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/GPCSantosh/LeetCode/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/GPCSantosh/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
