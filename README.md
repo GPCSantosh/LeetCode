@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GPCSantosh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GPCSantosh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/GPCSantosh/LeetCode/tree/master/0396-rotate-function) |
+| [0477-total-hamming-distance](https://github.com/GPCSantosh/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0624-maximum-distance-in-arrays](https://github.com/GPCSantosh/LeetCode/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0682-baseball-game](https://github.com/GPCSantosh/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/GPCSantosh/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/GPCSantosh/LeetCode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/GPCSantosh/LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/GPCSantosh/LeetCode/tree/master/0396-rotate-function) |
+| [0477-total-hamming-distance](https://github.com/GPCSantosh/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0877-stone-game](https://github.com/GPCSantosh/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GPCSantosh/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0991-broken-calculator](https://github.com/GPCSantosh/LeetCode/tree/main/0991-broken-calculator/) | Medium |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/GPCSantosh/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/GPCSantosh/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/GPCSantosh/LeetCode/tree/master/0389-find-the-difference) |
+| [0477-total-hamming-distance](https://github.com/GPCSantosh/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/GPCSantosh/LeetCode/tree/master/0832-flipping-an-image) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/GPCSantosh/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Memoization
