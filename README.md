@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GPCSantosh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/GPCSantosh/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/GPCSantosh/LeetCode/tree/main/0077-combinations/) | Medium |
 ## Linked List
 |  |
