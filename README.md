@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/GPCSantosh/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GPCSantosh/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2974-minimum-number-game](https://github.com/GPCSantosh/LeetCode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/GPCSantosh/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/GPCSantosh/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GPCSantosh/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2614-prime-in-diagonal](https://github.com/GPCSantosh/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/GPCSantosh/LeetCode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
+| [2974-minimum-number-game](https://github.com/GPCSantosh/LeetCode/tree/master/2974-minimum-number-game) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/GPCSantosh/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/GPCSantosh/LeetCode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/GPCSantosh/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GPCSantosh/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/GPCSantosh/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/GPCSantosh/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2974-minimum-number-game](https://github.com/GPCSantosh/LeetCode/tree/master/2974-minimum-number-game) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/GPCSantosh/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GPCSantosh/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GPCSantosh/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/GPCSantosh/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GPCSantosh/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/GPCSantosh/LeetCode/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
