@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/GPCSantosh/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/GPCSantosh/LeetCode/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/GPCSantosh/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/GPCSantosh/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GPCSantosh/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GPCSantosh/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2974-minimum-number-game](https://github.com/GPCSantosh/LeetCode/tree/master/2974-minimum-number-game) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/GPCSantosh/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/GPCSantosh/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/GPCSantosh/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/GPCSantosh/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GPCSantosh/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2614-prime-in-diagonal](https://github.com/GPCSantosh/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/GPCSantosh/LeetCode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GPCSantosh/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/GPCSantosh/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/GPCSantosh/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/GPCSantosh/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/GPCSantosh/LeetCode/tree/master/2974-minimum-number-game) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/GPCSantosh/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GPCSantosh/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/GPCSantosh/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GPCSantosh/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/GPCSantosh/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/GPCSantosh/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GPCSantosh/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/GPCSantosh/LeetCode/tree/master/2974-minimum-number-game) |
 ## Merge Sort
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/GPCSantosh/LeetCode/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/GPCSantosh/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GPCSantosh/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/GPCSantosh/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/GPCSantosh/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Bit Manipulation
 |  |
