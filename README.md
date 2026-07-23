@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/GPCSantosh/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GPCSantosh/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/GPCSantosh/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/GPCSantosh/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/GPCSantosh/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GPCSantosh/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GPCSantosh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/GPCSantosh/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GPCSantosh/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/GPCSantosh/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GPCSantosh/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
