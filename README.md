@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GPCSantosh/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/GPCSantosh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/GPCSantosh/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/GPCSantosh/LeetCode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/GPCSantosh/LeetCode/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/GPCSantosh/LeetCode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/GPCSantosh/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/GPCSantosh/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/GPCSantosh/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/GPCSantosh/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/GPCSantosh/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GPCSantosh/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/GPCSantosh/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/GPCSantosh/LeetCode/tree/master/0238-product-of-array-except-self) |
