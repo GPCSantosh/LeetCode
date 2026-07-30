@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/GPCSantosh/LeetCode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1447-simplified-fractions](https://github.com/GPCSantosh/LeetCode/tree/master/1447-simplified-fractions) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GPCSantosh/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/GPCSantosh/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/GPCSantosh/LeetCode/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/GPCSantosh/LeetCode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/GPCSantosh/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/GPCSantosh/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/GPCSantosh/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 ## Backtracking
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/GPCSantosh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GPCSantosh/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/GPCSantosh/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/GPCSantosh/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/GPCSantosh/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/GPCSantosh/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/GPCSantosh/LeetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1328-break-a-palindrome](https://github.com/GPCSantosh/LeetCode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/GPCSantosh/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/GPCSantosh/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/GPCSantosh/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GPCSantosh/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/GPCSantosh/LeetCode/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
