@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/GPCSantosh/LeetCode/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/GPCSantosh/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2938-separate-black-and-white-balls](https://github.com/GPCSantosh/LeetCode/tree/master/2938-separate-black-and-white-balls) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GPCSantosh/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3174-clear-digits](https://github.com/GPCSantosh/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3223-minimum-length-of-string-after-operations](https://github.com/GPCSantosh/LeetCode/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/main/3227-vowels-game-in-a-string/) | Medium |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/GPCSantosh/LeetCode/tree/master/1922-count-good-numbers) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/GPCSantosh/LeetCode/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/GPCSantosh/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GPCSantosh/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/GPCSantosh/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/GPCSantosh/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/GPCSantosh/LeetCode/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/GPCSantosh/LeetCode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/GPCSantosh/LeetCode/tree/master/2938-separate-black-and-white-balls) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GPCSantosh/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/GPCSantosh/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 ## Sorting
 |  |
