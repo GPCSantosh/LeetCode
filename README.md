@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GPCSantosh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GPCSantosh/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/GPCSantosh/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/GPCSantosh/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/GPCSantosh/LeetCode/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/GPCSantosh/LeetCode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/GPCSantosh/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/GPCSantosh/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GPCSantosh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/GPCSantosh/LeetCode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/GPCSantosh/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/GPCSantosh/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/GPCSantosh/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/GPCSantosh/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
