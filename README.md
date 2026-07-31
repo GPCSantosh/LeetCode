@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/GPCSantosh/LeetCode/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GPCSantosh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GPCSantosh/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0997-find-the-town-judge](https://github.com/GPCSantosh/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/GPCSantosh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/GPCSantosh/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/GPCSantosh/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/GPCSantosh/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/GPCSantosh/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GPCSantosh/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0997-find-the-town-judge](https://github.com/GPCSantosh/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/GPCSantosh/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/GPCSantosh/LeetCode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/GPCSantosh/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/GPCSantosh/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2685-count-the-number-of-complete-components](https://github.com/GPCSantosh/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Design
 |  |
