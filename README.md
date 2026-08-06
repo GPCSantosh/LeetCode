@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GPCSantosh/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/GPCSantosh/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/main/3227-vowels-game-in-a-string/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GPCSantosh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/GPCSantosh/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GPCSantosh/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/GPCSantosh/LeetCode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/GPCSantosh/LeetCode/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GPCSantosh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
