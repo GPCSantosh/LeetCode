@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/GPCSantosh/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1598-crawler-log-folder](https://github.com/GPCSantosh/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/GPCSantosh/LeetCode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/GPCSantosh/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/GPCSantosh/LeetCode/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/GPCSantosh/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2405-optimal-partition-of-string](https://github.com/GPCSantosh/LeetCode/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/GPCSantosh/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/GPCSantosh/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GPCSantosh/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/GPCSantosh/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2126-destroying-asteroids](https://github.com/GPCSantosh/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/GPCSantosh/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/GPCSantosh/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -633,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/GPCSantosh/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/GPCSantosh/LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
