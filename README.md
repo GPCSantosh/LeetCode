@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/GPCSantosh/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/GPCSantosh/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/GPCSantosh/LeetCode/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GPCSantosh/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GPCSantosh/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/GPCSantosh/LeetCode/tree/main/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3731-find-missing-elements](https://github.com/GPCSantosh/LeetCode/tree/master/3731-find-missing-elements) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GPCSantosh/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2614-prime-in-diagonal](https://github.com/GPCSantosh/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/GPCSantosh/LeetCode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GPCSantosh/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/GPCSantosh/LeetCode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GPCSantosh/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/GPCSantosh/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/GPCSantosh/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GPCSantosh/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GPCSantosh/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GPCSantosh/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
