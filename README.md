@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/GPCSantosh/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GPCSantosh/LeetCode/tree/master/0389-find-the-difference) |
+| [0830-positions-of-large-groups](https://github.com/GPCSantosh/LeetCode/tree/master/0830-positions-of-large-groups) |
 | [1328-break-a-palindrome](https://github.com/GPCSantosh/LeetCode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1447-simplified-fractions](https://github.com/GPCSantosh/LeetCode/tree/master/1447-simplified-fractions) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GPCSantosh/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
