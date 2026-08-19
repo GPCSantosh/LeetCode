@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/GPCSantosh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GPCSantosh/LeetCode/tree/master/0389-find-the-difference) |
 | [0830-positions-of-large-groups](https://github.com/GPCSantosh/LeetCode/tree/master/0830-positions-of-large-groups) |
+| [0942-di-string-match](https://github.com/GPCSantosh/LeetCode/tree/master/0942-di-string-match) |
 | [1328-break-a-palindrome](https://github.com/GPCSantosh/LeetCode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1447-simplified-fractions](https://github.com/GPCSantosh/LeetCode/tree/master/1447-simplified-fractions) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GPCSantosh/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/GPCSantosh/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/GPCSantosh/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/GPCSantosh/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0942-di-string-match](https://github.com/GPCSantosh/LeetCode/tree/master/0942-di-string-match) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/GPCSantosh/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GPCSantosh/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GPCSantosh/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/GPCSantosh/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/GPCSantosh/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/GPCSantosh/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0942-di-string-match](https://github.com/GPCSantosh/LeetCode/tree/master/0942-di-string-match) |
 | [0997-find-the-town-judge](https://github.com/GPCSantosh/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/GPCSantosh/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/GPCSantosh/LeetCode/tree/master/1046-last-stone-weight) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GPCSantosh/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/GPCSantosh/LeetCode/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0881-boats-to-save-people](https://github.com/GPCSantosh/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0942-di-string-match](https://github.com/GPCSantosh/LeetCode/tree/master/0942-di-string-match) |
 | [0991-broken-calculator](https://github.com/GPCSantosh/LeetCode/tree/main/0991-broken-calculator/) | Medium |
 | [1328-break-a-palindrome](https://github.com/GPCSantosh/LeetCode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/GPCSantosh/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
